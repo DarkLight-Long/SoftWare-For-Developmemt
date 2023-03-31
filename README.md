@@ -5,6 +5,11 @@ Mysql: DBeaver,HeidiSQL
 Terminal: XShell,TabbyTerminal
 FTP: FlashFXP, FileZilla
 
+MQ:
+spring-cloud-stream可以整合Rabbit,Rocket等等MQ
+Monitor:
+SpringBoot Admin(监控项目相关，带webUI),actuator(监控项目相关),oshi(监控系统+项目)
 
-spring-cloud-stream
-SpringBoot Admin,actuator,oshi
+IDEA-plugin:
+translation
+MyBatisCodeHelperPro
