@@ -3,8 +3,10 @@
 ### Temporary
 Mysql:
 DBeaver,HeidiSQL
+
 Terminal:
 XShell,TabbyTerminal
+
 FTP:
 FlashFXP, FileZilla
 
